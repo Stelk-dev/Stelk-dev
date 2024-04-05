@@ -1,6 +1,5 @@
 # 💫 About Me:
-🤠 Hello, I'm Stefano, and I'm a Flutter developer for mobile & web.<br><br>Ever since I was 14 years old, I've had a strong passion for programming and now I've managed to turn this passion into a full-time job.<br><br>I currently work as a Senior Flutter developer, with more than 3 years of experience. I've already worked for countless clients and companies, in a lot of different markets.<br><br>Some of the projects I've worked on include: social media apps, restaurant applications, cryptocurrency buy/sell applications, and much more.<br><br>I love challenges! new projects! good team! and most of all... pizza! ❤️<br><br>Let's be in touch:<br>kstel30@gmail.com<br>+39 3802640304
-
+🧑‍💻 Loving coding and pizza ❤️
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/stelk9) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stefanolol) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/StephTheLong) 
